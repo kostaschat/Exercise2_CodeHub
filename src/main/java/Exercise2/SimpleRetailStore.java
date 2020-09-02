@@ -1,6 +1,5 @@
 package Exercise2;
 
-import java.util.List;
 
 public class SimpleRetailStore implements IStore {
     private double totalBuyBalance;
